@@ -1,2 +1,2 @@
 # Program-Fundamentals-Java-22
-Previous projects and codes from education Fundamentals.
+Repository for previous projects and codes from education Fundamentals.
